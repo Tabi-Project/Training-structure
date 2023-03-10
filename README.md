@@ -11,7 +11,7 @@ description: >-
 Hands-on, very practical project focused virtual training tailored for women in tech.\
 Tabî provides quality learning content, solid structure to help you achieve your learning goals, experienced program facilitators (tutors & mentors).\
 \
-Learners are broken into smaller pods (10 students per pod), new concepts are covered weekly, live workshops with the track facilitators 3 times a week (1 hour each), tasks/projects due every Friday, bi monthly internal Hackathons, seasonal public hackathons, soft-skills lab and other electives.\
+Learners are broken into smaller pods (30 students per pod), new concepts are covered weekly, live workshops with the track facilitators 3 times a week (2 hours each), tasks/projects due every Friday, bi monthly internal Hackathons, seasonal public hackathons, soft-skills lab and other electives.\
 \
 Access to the Tabî community (resources, events, scholarships, networking etc), Open-source projects, and talent pipeline (for hiring).\
 \
